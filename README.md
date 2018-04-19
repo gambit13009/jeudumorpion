@@ -6,8 +6,8 @@
 - Audrey (@audreycouture)
 - Jerome (@Jerome)
 - Damien (@damien13005)
-- Maxime (@Maxmala)
-- Sam 	(@sam))
+- Maxime (@Maxime)
+- Sam 	(@sam)
 
 -------------
 
