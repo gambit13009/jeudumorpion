@@ -1,4 +1,4 @@
-	![alt tag](images/centre.jpg)
+![alt tag](images/centre.jpg)
 
 -------------
 
